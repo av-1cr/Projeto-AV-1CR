@@ -13,7 +13,7 @@ import buscaCidadao from './pages/buscaCidadao';
 import buscaVeicular from './pages/buscaVeicular';
 import comunitaria from './pages/comunitaria';
 import pb from './pages/pb';
-//headerShown: false para olcutar o cabeçalho da pagina
+//headerShown: false para olcutar o cabeçalho da paginaa
 
 export default function Routes() {
   return (

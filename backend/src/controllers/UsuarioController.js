@@ -1,6 +1,6 @@
 const connection = require('../database/connection');
 const stringExtension = require('../extensions/stringExtension');
-
+//teste
 module.exports = {
     async GetForRgpm (request, response) {
         const { rgpm } = request.params;
